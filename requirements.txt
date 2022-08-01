@@ -3,3 +3,10 @@ pandas
 numpy
 sklearn
 nltk
+pyspellchecker
+matplotlib
+seaborn
+re
+gensim
+pickle
+string
