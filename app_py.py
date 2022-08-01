@@ -91,7 +91,7 @@ def main():
 
 
 
-    st.write("## Thank you for Visiting \nProject by Nikhil J")
+    st.write("## Thank you for Visiting \nProject by Suyog H")
     st.markdown("<h1 style='text-align: right; color: #d7e3fc; font-size: small;'><a href='https://github.com/suyog56/CRM'>Looking for Source Code?</a></h1>", unsafe_allow_html=True)
 
 if __name__ == "__main__":
